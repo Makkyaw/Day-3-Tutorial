@@ -1,1 +1,6 @@
 # Day-3-Tuto
+Hello My Friend
+I'm a junior web developer.
+Now i start learing the git version control system.
+Please share more command & other knowledge.
+Thank You!
